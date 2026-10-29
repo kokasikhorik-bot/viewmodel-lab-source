@@ -1,0 +1,42 @@
+{
+  "name": "Viewmodel Lab",
+  "identifier": "com.prototypelab.viewmodel.source",
+  "subtitle": "Источник для LiveContainer",
+  "description": "Установочные сборки Viewmodel Lab. Исходный код хранится отдельно.",
+  "sourceURL": "https://raw.githubusercontent.com/kokasikhorik-bot/viewmodel-lab-source/main/source.json",
+  "website": "https://github.com/kokasikhorik-bot/viewmodel-lab-source",
+  "iconURL": "https://raw.githubusercontent.com/kokasikhorik-bot/viewmodel-lab-source/main/icon.png",
+  "tintColor": "C8B67D",
+  "apps": [
+    {
+      "name": "Viewmodel Lab",
+      "bundleIdentifier": "com.prototypelab.viewmodel",
+      "developerName": "Prototype Lab",
+      "subtitle": "Офлайн-полигон с оружием и ботами",
+      "localizedDescription": "Неофициальный мобильный прототип. Полигон, оружие, гранаты и тренировочные боты. Сборка для iPhone ARM64.",
+      "iconURL": "https://raw.githubusercontent.com/kokasikhorik-bot/viewmodel-lab-source/main/icon.png",
+      "tintColor": "C8B67D",
+      "category": "games",
+      "beta": true,
+      "version": "0.11.0",
+      "versionDate": "2026-10-29T17:20:00Z",
+      "versionDescription": "Быстрые свайпы оружия и гранат; круг через 1,2 секунды. Исправлены хват ножа/C4 и доставание R8. Регдоллы с отдельной гравитацией, усиленное отбрасывание AWP. Корпус следует за взглядом. Новые иконки.",
+      "downloadURL": "https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/download/0.11.0/ViewmodelLab-0.11.ipa",
+      "size": 835962923,
+      "versions": [
+        {
+          "version": "0.11.0",
+          "buildVersion": "1",
+          "buildNumber": "1",
+          "date": "2026-10-29T17:20:00Z",
+          "localizedDescription": "Быстрые свайпы оружия и гранат; круг через 1,2 секунды. Исправлены хват ножа/C4 и доставание R8. Регдоллы с отдельной гравитацией, усиленное отбрасывание AWP. Корпус следует за взглядом. Новые иконки.",
+          "downloadURL": "https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/download/0.11.0/ViewmodelLab-0.11.ipa",
+          "size": 835962923,
+          "sha256": "b7e1ddf3c125b1eb13b5ea807e5502b37df9a5401b3d50affe086e0e09658dc2",
+          "minOSVersion": "13.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
