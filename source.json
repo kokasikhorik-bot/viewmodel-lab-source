@@ -18,12 +18,23 @@
       "tintColor": "C8B67D",
       "category": "games",
       "beta": true,
-      "version": "0.12.0",
-      "versionDate": "2026-10-30T06:12:07Z",
-      "versionDescription": "Исправлены исходные смещения C4, R8 и ножей, дрейф быстрого доставания и видимость зарядника R8. Установка C4 синхронизирована с таймером. Боты блокируют проход и служат опорой для прыжка. Оружие выбрасывается дальше, гранаты останавливаются на земле.",
-      "downloadURL": "https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/download/0.12.0/ViewmodelLab-0.12.ipa",
-      "size": 838062602,
+      "version": "0.13.0",
+      "versionDate": "2026-10-30T07:32:25Z",
+      "versionDescription": "Арена агентов: две команды по три бота, свободный полёт и наблюдение от первого лица. Боты используют зрение, слух и память, обходят укрытия, прыгают и проходят низкие места. Воздушный стрейф требует бокового джойстика и поворота камеры в ту же сторону. Улучшен молотов, увеличен эффект HE, осветлена модель оружия.",
+      "downloadURL": "https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/download/0.13.0/ViewmodelLab-0.13.ipa",
+      "size": 838116807,
       "versions": [
+        {
+          "version": "0.13.0",
+          "buildVersion": "1",
+          "buildNumber": "1",
+          "date": "2026-10-30T07:32:25Z",
+          "localizedDescription": "Арена агентов: две команды по три бота, свободный полёт и наблюдение от первого лица. Боты используют зрение, слух и память, обходят укрытия, прыгают и проходят низкие места. Воздушный стрейф требует бокового джойстика и поворота камеры в ту же сторону. Улучшен молотов, увеличен эффект HE, осветлена модель оружия.",
+          "downloadURL": "https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/download/0.13.0/ViewmodelLab-0.13.ipa",
+          "size": 838116807,
+          "sha256": "d54595b53db409bd8e4841597c7e0372a9f8601d19bd9d75a767a670530f9a12",
+          "minOSVersion": "13.0"
+        },
         {
           "version": "0.12.0",
           "buildVersion": "1",
