@@ -6,6 +6,6 @@ URL источника: `https://raw.githubusercontent.com/kokasikhorik-bot/view
 
 Добавление: LiveContainer → Источники → + → URL источника.
 
-Текущая версия: 0.36.0, 1 044 340 218 байт. SHA-256: `0fbba91a26ca89d5eb5b2a733d9d551c9e0535ba2aa8e9ef24e5012734b2354d`.
+Текущая версия: 0.37.0, 1 070 166 366 байт. SHA-256: `8b5315b2db1529e2b5ad8f1e243c9418597e757df6b0862302f1640799443fc3`.
 
 IPA не подписана. Возможность запуска именно через LiveContainer на физическом iPhone пока не проверена.
