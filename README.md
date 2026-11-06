@@ -1,6 +1,6 @@
 # Viewmodel Lab — скачать игру
 
-[Страница обновления 0.51](https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/tag/0.51.0) · [Android APK](https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/download/0.51.0/ViewmodelLab-0.51-arm64.apk) · [IPA для LiveContainer](https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/download/0.51.0/ViewmodelLab-0.51.ipa)
+[Страница обновления 0.52](https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/tag/0.52.0) · [Android APK](https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/download/0.52.0/ViewmodelLab-0.52-arm64.apk) · [IPA для LiveContainer](https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/download/0.52.0/ViewmodelLab-0.52.ipa)
 
 Android: 8.0+, ARM64, OpenGL ES 3. Скачайте APK и разрешите установку из выбранного браузера или файлового менеджера. При первом запуске дождитесь распаковки ресурсов; оставьте около 5 ГБ свободного места.
 
@@ -14,7 +14,7 @@ LiveContainer → Источники → + → URL источника.
 
 ## Что добавлено
 
-В 0.51: MOVEMENT на настоящей CS:GO ps_bank (Bank pixelsurfable) — карта для пиксель-сёрфов и эдж-багов, очки и комбо, три испытания на исходной геометрии с полосой маршрута, повтором и отменой. Офлайн без регистрации и интернета, официальный онлайн MOVEMENT. В чате: `slow 0.1–1.0`, `hideplayers`, `showtricks`, `challenge`, `retry`, `cancel`. Замедление и скрытие игроков личные; баллы медленных попыток помечены как тренировочные. Урон и столкновения игроков в этом режиме отключены. Исходные режимы сохранены; онлайн-классика совместима с 0.49.
+В 0.52: MOVEMENT перенесён на оригинальную CS:GO KZ Dam (PR3DA). Исправлены ложные пиксель-сёрфы на полу; за баннихоп очки больше не начисляются. Три испытания проверены обычным управлением: узкий скос, эдж-баг и длинный спуск с посадкой. Повтор ждёт первого движения, быстрые сбросы синхронизируются в онлайне. Офлайн без регистрации и интернета, официальный онлайн MOVEMENT. В чате: `slow 0.1–1.0`, `hideplayers`, `showtricks`, `challenge`, `retry`, `cancel`. Замедление и скрытие игроков личные; баллы медленных попыток помечены как тренировочные. Урон и столкновения игроков в этом режиме отключены. Исходные режимы сохранены; онлайн-классика совместима с 0.49.
 
 Онлайн-классика, общие каналы CLASSIC и RANDOM, 30 событий, C4 и закупка, 12 раундов со сменой карты, переподключение, меню паузы, профили, аватарки и друзья. Руки плавно опускаются при движении; нож опускается сильнее. Личные кастомные ножи доступны аккаунту TheLastMerry; оригинальные анимации Apex/Valorant не включены.
 
@@ -22,6 +22,6 @@ LiveContainer → Источники → + → URL источника.
 
 Этот репозиторий содержит только каталог, иконку и описание загрузки. Игровой код хранится в отдельном закрытом репозитории. Автоматические архивы GitHub Source code содержат только эти служебные файлы; для установки выбирайте APK или IPA.
 
-APK: 1434566846 байт. SHA-256: `b80e388c090545f2c16fc9a741b5374fabd90851bb14a2319e73420fb19cb3b1`.
+APK: 1514995347 байт. SHA-256: `01ffd8bb2c3a1b67bf0c63b3549b6158873c188c67672a7e88493d4dc4c6be48`.
 
-IPA: 1429393448 байт. SHA-256: `289eba523755b4a1a404054a39c3a9fa6a50fc497cc0aa012c1834a650b2db5d`.
+IPA: 1508603059 байт. SHA-256: `af071fd19d3a20eda68791dbeeb88b14cf1e88515e5cb13e2a80f03ca2e7e82f`.
