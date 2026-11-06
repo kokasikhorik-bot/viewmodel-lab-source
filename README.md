@@ -1,6 +1,6 @@
 # Viewmodel Lab — скачать игру
 
-[Страница обновления 0.49](https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/tag/0.49.0) · [Android APK](https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/download/0.49.0/ViewmodelLab-0.49-arm64.apk) · [IPA для LiveContainer](https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/download/0.49.0/ViewmodelLab-0.49.ipa)
+[Страница обновления 0.50](https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/tag/0.50.0) · [Android APK](https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/download/0.50.0/ViewmodelLab-0.50-arm64.apk) · [IPA для LiveContainer](https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/download/0.50.0/ViewmodelLab-0.50.ipa)
 
 Android: 8.0+, ARM64, OpenGL ES 3. Скачайте APK и разрешите установку из выбранного браузера или файлового менеджера. При первом запуске дождитесь распаковки ресурсов; оставьте около 5 ГБ свободного места.
 
@@ -14,7 +14,7 @@ LiveContainer → Источники → + → URL источника.
 
 ## Что добавлено
 
-В 0.49: физика стрейфов по алгоритму Source, повторные удары ножом от третьего лица, прыжковые позы и отдельная сохраняемая яркость рук и оружия (50–300%).
+В 0.50: оптимизация Android и iPhone — ограничение нагрузки 3D на экранах с высоким DPI, экономное контактное затенение, кэш анимаций и HUD, сокращение лишних копирований HDR, освобождение неиспользуемых моделей и восстановление графики после возврата в игру. Плотность дыма, мувмент и яркость рук сохранены. Онлайн совместим с 0.49.
 
 Онлайн-классика, общие каналы CLASSIC и RANDOM, 30 событий, C4 и закупка, 12 раундов со сменой карты, переподключение, меню паузы, профили, аватарки и друзья. Руки плавно опускаются при движении; нож опускается сильнее. Личные кастомные ножи доступны аккаунту TheLastMerry; оригинальные анимации Apex/Valorant не включены.
 
@@ -22,6 +22,6 @@ LiveContainer → Источники → + → URL источника.
 
 Этот репозиторий содержит только каталог, иконку и описание загрузки. Игровой код хранится в отдельном закрытом репозитории. Автоматические архивы GitHub Source code содержат только эти служебные файлы; для установки выбирайте APK или IPA.
 
-APK: 1348096317 байт. SHA-256: `496b8bb853662620a9ee7e3647fcc9030bf8b1694b9931349a14e957dc356315`.
+APK: 1348108605 байт. SHA-256: `a5c39893a3252ffd5916038b9e26a867a6005144009a995c26ce05d5f640c6c4`.
 
-IPA: 1342521849 байт. SHA-256: `0eac70525df76e4c1c0fdc8a9693fbdfc9e7eab43b44c5b4e1c2427e046f5e4e`.
+IPA: 1342542243 байт. SHA-256: `826c3f10b4e930b6facf050a1adf990907e9723626e7b33e798ac272e5012f74`.
