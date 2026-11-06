@@ -1,6 +1,6 @@
 # Viewmodel Lab — скачать игру
 
-[Страница обновления 0.48](https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/tag/0.48.0) · [Android APK](https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/download/untagged-9684e3d2139b0de9944c/ViewmodelLab-0.48-arm64.apk) · [IPA для LiveContainer](https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/download/untagged-9684e3d2139b0de9944c/ViewmodelLab-0.48.ipa)
+[Страница обновления 0.48](https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/tag/0.48.0) · [Android APK](https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/download/0.48.0/ViewmodelLab-0.48-arm64.apk) · [IPA для LiveContainer](https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/download/0.48.0/ViewmodelLab-0.48.ipa)
 
 Android: 8.0+, ARM64, OpenGL ES 3. Скачайте APK и разрешите установку из выбранного браузера или файлового менеджера. При первом запуске дождитесь распаковки ресурсов; оставьте около 5 ГБ свободного места.
 
