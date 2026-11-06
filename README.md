@@ -1,6 +1,6 @@
 # Viewmodel Lab — скачать игру
 
-[Страница обновления 0.50](https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/tag/0.50.0) · [Android APK](https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/download/0.50.0/ViewmodelLab-0.50-arm64.apk) · [IPA для LiveContainer](https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/download/0.50.0/ViewmodelLab-0.50.ipa)
+[Страница обновления 0.51](https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/tag/0.51.0) · [Android APK](https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/download/0.51.0/ViewmodelLab-0.51-arm64.apk) · [IPA для LiveContainer](https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/download/0.51.0/ViewmodelLab-0.51.ipa)
 
 Android: 8.0+, ARM64, OpenGL ES 3. Скачайте APK и разрешите установку из выбранного браузера или файлового менеджера. При первом запуске дождитесь распаковки ресурсов; оставьте около 5 ГБ свободного места.
 
@@ -14,7 +14,7 @@ LiveContainer → Источники → + → URL источника.
 
 ## Что добавлено
 
-В 0.50: оптимизация Android и iPhone — ограничение нагрузки 3D на экранах с высоким DPI, экономное контактное затенение, кэш анимаций и HUD, сокращение лишних копирований HDR, освобождение неиспользуемых моделей и восстановление графики после возврата в игру. Плотность дыма, мувмент и яркость рук сохранены. Онлайн совместим с 0.49.
+В 0.51: MOVEMENT на настоящей CS:GO ps_bank (Bank pixelsurfable) — карта для пиксель-сёрфов и эдж-багов, очки и комбо, три испытания на исходной геометрии с полосой маршрута, повтором и отменой. Офлайн без регистрации и интернета, официальный онлайн MOVEMENT. В чате: `slow 0.1–1.0`, `hideplayers`, `showtricks`, `challenge`, `retry`, `cancel`. Замедление и скрытие игроков личные; баллы медленных попыток помечены как тренировочные. Урон и столкновения игроков в этом режиме отключены. Исходные режимы сохранены; онлайн-классика совместима с 0.49.
 
 Онлайн-классика, общие каналы CLASSIC и RANDOM, 30 событий, C4 и закупка, 12 раундов со сменой карты, переподключение, меню паузы, профили, аватарки и друзья. Руки плавно опускаются при движении; нож опускается сильнее. Личные кастомные ножи доступны аккаунту TheLastMerry; оригинальные анимации Apex/Valorant не включены.
 
@@ -22,6 +22,6 @@ LiveContainer → Источники → + → URL источника.
 
 Этот репозиторий содержит только каталог, иконку и описание загрузки. Игровой код хранится в отдельном закрытом репозитории. Автоматические архивы GitHub Source code содержат только эти служебные файлы; для установки выбирайте APK или IPA.
 
-APK: 1348108605 байт. SHA-256: `a5c39893a3252ffd5916038b9e26a867a6005144009a995c26ce05d5f640c6c4`.
+APK: 1434566846 байт. SHA-256: `b80e388c090545f2c16fc9a741b5374fabd90851bb14a2319e73420fb19cb3b1`.
 
-IPA: 1342542243 байт. SHA-256: `826c3f10b4e930b6facf050a1adf990907e9723626e7b33e798ac272e5012f74`.
+IPA: 1429393448 байт. SHA-256: `289eba523755b4a1a404054a39c3a9fa6a50fc497cc0aa012c1834a650b2db5d`.
