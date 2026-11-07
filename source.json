@@ -18,12 +18,23 @@
       "tintColor": "C8B67D",
       "category": "games",
       "beta": true,
-      "version": "0.52.0",
-      "versionDate": "2026-11-06T20:45:21Z",
-      "versionDescription": "MOVEMENT: оригинальная карта CS:GO KZ Dam от PR3DA вместо ps_bank.\n\nИсправлено начисление за пиксель-сёрф на обычном полу. Баннихоп сохраняет скорость, но больше не даёт очков. Три испытания на реальной геометрии проверены обычным управлением: пиксель, эдж-баг и длинный спуск с посадкой.\n\nПовтор начинается с первого движения. Исправлены ложный провал длинного испытания, высота телепортов и быстрые сбросы в онлайне. Офлайн доступен без регистрации.\n\nAndroid APK и IPA для LiveContainer. Исходный код остаётся закрытым.\n",
-      "downloadURL": "https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/download/0.52.0/ViewmodelLab-0.52.ipa",
-      "size": 1508603059,
+      "version": "0.53.0",
+      "versionDate": "2026-11-07T07:07:12Z",
+      "versionDescription": "MOVEMENT на Dust II, Mirage, Inferno и Seaside. KZ Dam больше не выбирается. На каждой обычной карте добавлены четыре видимые золотые пиксель-линии, метки START/FINISH и три проверенных испытания.\n\nКоллизии дополняют реальные видимые поверхности полов, без плоского невидимого «дна». Проверка охватывает 85 118 треугольников полов четырёх карт.\n\nКоманды: maps; map dust2 / mirage / inferno / seaside. В офлайне карта меняется сразу, на сервере — голосование. Ответ: vote yes / vote no.\n\nedge helper [on|off] плавно помогает воздушным управлением попасть на край для эдж-бага. Никакой телепортации; попытка помечается как тренировочная.\n\nДлинные прыжки дают бонус от 230 units: 100/200/400/750/1200 очков за 230/240/250/260/270+ units. Обычный прыжок, бхоп и падение с крыши не дают этот бонус.\n\nAPK для Android и IPA для LiveContainer. Исходный код остаётся закрытым.\n",
+      "downloadURL": "https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/download/0.53.0/ViewmodelLab-0.53.ipa",
+      "size": 1509040612,
       "versions": [
+        {
+          "version": "0.53.0",
+          "buildVersion": "1",
+          "buildNumber": "1",
+          "date": "2026-11-07T07:07:12Z",
+          "localizedDescription": "MOVEMENT на Dust II, Mirage, Inferno и Seaside. KZ Dam больше не выбирается. На каждой обычной карте добавлены четыре видимые золотые пиксель-линии, метки START/FINISH и три проверенных испытания.\n\nКоллизии дополняют реальные видимые поверхности полов, без плоского невидимого «дна». Проверка охватывает 85 118 треугольников полов четырёх карт.\n\nКоманды: maps; map dust2 / mirage / inferno / seaside. В офлайне карта меняется сразу, на сервере — голосование. Ответ: vote yes / vote no.\n\nedge helper [on|off] плавно помогает воздушным управлением попасть на край для эдж-бага. Никакой телепортации; попытка помечается как тренировочная.\n\nДлинные прыжки дают бонус от 230 units: 100/200/400/750/1200 очков за 230/240/250/260/270+ units. Обычный прыжок, бхоп и падение с крыши не дают этот бонус.\n\nAPK для Android и IPA для LiveContainer. Исходный код остаётся закрытым.\n",
+          "downloadURL": "https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/download/0.53.0/ViewmodelLab-0.53.ipa",
+          "size": 1509040612,
+          "sha256": "e4229cf89940b723c7fbdbf9d3fb86175ea7c79a4c7b7fea4bb2f2633f3eac56",
+          "minOSVersion": "13.0"
+        },
         {
           "version": "0.52.0",
           "buildVersion": "1",
