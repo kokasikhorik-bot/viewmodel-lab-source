@@ -1,5 +1,19 @@
 # Viewmodel Lab — скачать игру
 
+## Windows 0.62
+
+[Скачать версию для ПК — страница релиза](https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/tag/0.62.0) · [ZIP Windows x64](https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/download/0.62.0/SpiralEngine-0.62-Windows-x64.zip)
+
+Windows 10/11 x64, DirectX 11. Распакуйте архив целиком и откройте `SpiralEngine.exe`. ZIP: 1,57 ГБ; рядом с EXE нужны папки данных и UnityPlayer.dll.
+
+Отдельная графика ПК: нативное разрешение, MSAA до 8×, чёткие контактные тени, тени до 4096, отражения до 512, 16× анизотропия. Режим экрана, разрешение, частота, VSync и FPS до 240 или без лимита.
+
+Настройки → Управление: 36 действий, по два бинда; клавиши, мышь и колесо; чувствительность прицела, инверсия, сглаживание; ходьба и присед удержанием или переключением. Конфликты клавиш подтверждаются, раскладка сохраняется.
+
+Пройдены 36 проверок управления и графики, 11 проверок прежних сенсорных контролов, CRC ZIP и 2645 хешей ресурсов. Готовый Windows EXE запущен через Wine с DirectX 11 до матча Dust II с ботами. Производительность на физических ПК пока не измерена.
+
+Сборки Android/iOS и источник LiveContainer ниже остаются на 0.61.
+
 [Обновление 0.61](https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/tag/0.61.0) · [Android APK](https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/download/0.61.0/ViewmodelLab-0.61-arm64.apk) · [IPA для LiveContainer](https://github.com/kokasikhorik-bot/viewmodel-lab-source/releases/download/0.61.0/ViewmodelLab-0.61.ipa)
 
 Android: 8.0+, ARM64, OpenGL ES 3. Скачайте APK и разрешите установку из выбранного браузера или файлового менеджера. При первом запуске дождитесь распаковки ресурсов; оставьте около 5 ГБ свободного места.
